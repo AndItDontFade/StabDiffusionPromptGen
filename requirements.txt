@@ -1,5 +1,5 @@
 fastapi[all]
-openai
+openai==0.28.1
 python-dotenv
 pydantic==1.*
 langchain
